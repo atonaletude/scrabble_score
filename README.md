@@ -1,0 +1,1 @@
+Write a program that, given a word, computes the scrabble score for that word
